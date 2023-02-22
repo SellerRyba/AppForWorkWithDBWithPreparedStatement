@@ -9,7 +9,6 @@ import java.nio.file.Paths;
 public class DatabaseInitService {
     public static void main(String[] args) {
         Database database = Database.getInstance();
-
     }
 
     public void initDb(Database database) {
